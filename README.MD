@@ -27,8 +27,14 @@ Este repositorio contiene un script automatizado para configurar un clúster de 
 ---
 
 ## 🚀 Cómo usar el script
+1. Ejecuta en la Terminal:
+   ```bash
+   curl -sSL https://bit.ly/basic_install | sh
 
-1. Clona este repositorio:
+
+
+
+2. Clona este repositorio:
    ```bash
    git clone https://github.com/tu-usuario/tu-repositorio.git
    cd tu-repositorio
