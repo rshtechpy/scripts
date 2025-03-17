@@ -11,6 +11,7 @@ Este repositorio contiene un script automatizado para configurar un clúster de 
 - **Ubuntu** (recomendado) 🐧
 - **Acceso root o sudo** 🔑
 - **Conexión a Internet** 🌐
+- **Apuntamiento Correcto de los DNS** 🌐 
 
 ---
 
