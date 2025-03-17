@@ -73,17 +73,3 @@ Este proyecto está bajo la licencia MIT. ¡Siéntete libre de usarlo y modifica
 
 📧 Contacto
 ¿Preguntas? ¡Contáctame! 📬
-jfvalencia@hotmail.com
-
-¡Disfruta de tu clúster de Docker Swarm! 🎉🐳
-
-Copy
-
-### Características del README:
-1. **Emojis**: Hace que el texto sea más atractivo y fácil de leer.
-2. **Secciones claras**: Divide la información en secciones fáciles de seguir.
-3. **Instrucciones paso a paso**: Guía al usuario desde la clonación del repositorio hasta el acceso a Portainer.
-4. **Detalles técnicos**: Explica qué hace el script y cómo funciona.
-5. **Licencia y contribuciones**: Fomenta la colaboración y el uso del proyecto.
-
-Puedes personalizar este `README.md` según tus necesidades. ¡Espero que te sea útil! 😊
